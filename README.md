@@ -1,2 +1,2 @@
-# hello-world
-Testing git hub
+# Assignment 2
+Cecilia Coulter
